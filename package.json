@@ -1,0 +1,28 @@
+{
+  "name": "gulp-config-pattern-lab",
+  "version": "1.0.0",
+  "description": "Configures gulp for Pattern Lab compiling",
+  "main": "pattern-lab.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanLovely/gulp-config-pattern-lab.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-config",
+    "front-end",
+    "pattern-lab"
+  ],
+  "author": "Evan Lovely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanLovely/gulp-config-pattern-lab/issues"
+  },
+  "homepage": "https://github.com/EvanLovely/gulp-config-pattern-lab#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
